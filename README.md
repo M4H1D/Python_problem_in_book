@@ -1,1 +1,1 @@
-# Python_problem_in_book
+python exercise solution.I solved many exercise.But some of problems are very disturbing me.For this reason I note it from github.
